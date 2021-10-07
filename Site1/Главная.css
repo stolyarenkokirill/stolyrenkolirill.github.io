@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'NiteLife'; 
+	src: url(/fonts/NiteLife.ttf);
+.text-1 {
+	font-family: 'NiteLife'; 
+	font-size: 20px;
+}
